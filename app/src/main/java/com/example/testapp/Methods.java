@@ -1,0 +1,9 @@
+package com.example.testapp;
+
+import android.content.Intent;
+
+import static androidx.core.content.ContextCompat.startActivity;
+
+public class Methods {
+
+}
